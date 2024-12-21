@@ -8,4 +8,4 @@
 |4|[Simple hybrid recommendation system](https://github.com/khav-i/rs_models/blob/master/Simple%20hybrid%20recommendation%20system/README.md)|Пробуем создать простую гибридную рекомендательную модель для Goodreads.|LightFM.|
 |5|[Simple neural recommendation system](https://github.com/khav-i/rs_models/blob/master/Simple%20neural%20recommendation%20system/README.md)|Обучаем простую DL-модель для рекомендательной системы.|Pytorch, Keras, Embeddings.|
 |6|[Recommendation systems with matrix factorization](https://github.com/khav-i/rs_models/blob/master/Recommendation%20systems%20with%20matrix%20factorization/README.md)|Снова копаемся в песочнице MovieLens, но на этот раз чуть более серьезно: больше специальных библиотек и модулей.|iALS, BPRMF.|
-|7|[Content-based recommendation system on GK data]()|Делаем простой рексис на данных о культурных мероприятиях из Госуслуги-Культура.|tf-idf, bert.|
+|7|[Content-based recommendation system on GK data](https://github.com/khav-i/rs_models/blob/master/CB-Recsys%20on%20GK%20data/README.md)|Делаем простой рексис на данных о культурных мероприятиях из Госуслуги-Культура.|tf-idf, bert.|
